@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Geometry Dash",
+        "slug": "geometry-dash",
+        "image": "/cache/data/image/game/geometry-dash/geometry-dash-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash Lite",
+        "slug": "geometry-dash-lite",
+        "image": "/cache/data/image/game/geometry-dash-lite/geometry-dash-lite-online-m186x186.webp"
+    },
+    {
+        "name": "Skeletal Shenanigans",
+        "slug": "skeletal-shenanigans",
+        "image": "/cache/data/image/game/skeletal-shenanigans/skeletal-shenanigans-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash Can't Let Go",
+        "slug": "geometry-dash-can-t-let-go",
+        "image": "/cache/data/image/game/geometry-dash-can-t-let-go/geometry-dash-can-t-let-go-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash Deadlocked",
+        "slug": "geometry-dash-deadlocked",
+        "image": "/cache/data/image/game/geometry-dash-deadlocked/geometry-dash-deadlocked-m186x186.webp"
+    },
+    {
+        "name": "Geometry Arrow",
+        "slug": "geometry-arrow",
+        "image": "/cache/data/image/game/geometry-arrow/geometry-arrow-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash Rage Quit",
+        "slug": "geometry-dash-rage-quit",
+        "image": "/cache/data/image/game/geometry-dash-rage-quit/geometry-dash-rage-quit-game-m186x186.webp"
+    },
+    {
+        "name": "Geometry Vibes",
+        "slug": "geometry-vibes",
+        "image": "/cache/data/image/game/geometry-vibes/geometry-vibes-m186x186.webp"
+    },
+    {
+        "name": "Geometry Dash Wave",
+        "slug": "geometry-dash-wave",
+        "image": "/cache/data/image/game/geometry-dash-wave/geometry-dash-wave-m186x186.webp"
+    }
+]
